@@ -52,6 +52,10 @@ Naming: `NNN-short-slug.md`, same numbering as decisions.
 
 Purpose: Flat list of unresolved questions not yet mature enough to become decisions.
 
+### `problem.md`
+
+Purpose: The problem Even exists to solve. Product north star — the "why" that anchors decisions downstream.
+
 ---
 
 ## Naming Conventions
