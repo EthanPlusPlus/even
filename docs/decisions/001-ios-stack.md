@@ -28,5 +28,6 @@ The "everyone at the table" shape directly attacks the pain in `problem.md`, but
 
 ## Revisit when
 
-- Multiplayer-at-the-table becomes the validated product shape. At that point migrate from SwiftData → **Supabase** (or equivalent BaaS) for shared, realtime state across users.
+- **Joining the Apple Developer Program** (e.g. preparing for TestFlight). Flip on **CloudKit private DB** via SwiftData's `cloudKitDatabase` config — gives users free iCloud backup + same-Apple-ID sync of their bill history at near-zero implementation cost. Deferred from MVP only because CloudKit containers require the $99/yr program even in development.
+- **Multiplayer-at-the-table becomes the validated product shape.** At that point migrate from SwiftData → **Supabase** (or equivalent BaaS) for shared, realtime state across different Apple IDs. Explicitly *not* CloudKit `CKShare` — share-acceptance flow is too clunky, Apple-only locks out future Android/web, and no server-side logic.
 - We hit a Swift Testing limitation that XCTest solves (unlikely; flag if it happens).
