@@ -2,11 +2,13 @@
 
 ## In Progress
 
-_(nothing currently in progress)_
+- Scaffolding the Xcode project (user-driven, in this directory)
 
 ## Next
 
-_(see proposed-ideas/ for upcoming directions)_
+- Verify `.gitignore` after Xcode project creation
+- Spike VisionKit + Vision against real receipts to inform OCR open question
+- Sketch core data model in SwiftData (receipt → line items → allocations)
 
 ## Done
 
