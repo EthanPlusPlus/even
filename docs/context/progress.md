@@ -2,13 +2,16 @@
 
 ## In Progress
 
-- Scaffolding the Xcode project (user-driven, in this directory)
+_(nothing currently in progress)_
 
 ## Next
 
-- Verify `.gitignore` after Xcode project creation
 - Spike VisionKit + Vision against real receipts to inform OCR open question
 - Sketch core data model in SwiftData (receipt → line items → allocations)
+
+## Done
+
+- 2026-04-27 — Xcode project scaffolded at `even/`, `.gitignore` added, user-state untracked.
 
 ## Done
 

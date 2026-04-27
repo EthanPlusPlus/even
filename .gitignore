@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Xcode — per-user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Xcode — build artifacts
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# CocoaPods (unused — keep ignored in case)
+Pods/
+
+# Carthage (unused — keep ignored in case)
+Carthage/Build/
