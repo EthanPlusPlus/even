@@ -43,3 +43,9 @@ You don't want to think about that straight after having a good time.
 **Deeper:** It mixes the **experience** with the **consequence**.
 
 > Open question: maybe that's a good thing — worth looking into.
+
+---
+
+## Principles
+
+**Casual yet essential.** Every action in Even compounds that vibe — small frictions break it, small frictionless wins build it. The whole app earns its feel one tap at a time.
