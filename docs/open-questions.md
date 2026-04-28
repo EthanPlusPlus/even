@@ -4,8 +4,6 @@
 
 - **Person merge-conflict UX.** Decision `002-diner-durability` dedupes typed names by normalised match. Open: how does the user resolve "Sarah" and "Sarah K" being the same human (or, conversely, two different Sarahs)? Punted until allocation UX exists to inform the answer.
 
-- **Splitting granularity.** Whole items only (each line item belongs to one diner or "shared by all") vs. fractional via shares (a line item can be divided — e.g. 3 shares of nachos, you own 2; ½ pizza you, ½ pizza Sarah). Shares cleanly handle the realistic "we shared this" case.
-
 - **Tax / tip / service charge distribution.** Proportional to each diner's subtotal share, equal across heads, or configurable per bill. Real receipts mix all three behaviours.
 
 - **Currency support.** Single currency (ZAR) is simpler but locks us in. Per-bill currency field is nearly free to add now and avoids a migration later. No FX conversion either way.
