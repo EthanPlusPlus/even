@@ -1,8 +1,20 @@
 # Problem
 
-The moment Even exists for.
+Even is not just a bill-splitting tool.
+
+**Even is the closing ritual of a shared experience involving money.**
+
+It exists specifically in the moment:
+
+- After the experience (meal, night out)
+- While people are still together
+- Before everyone disperses
+
+It must not expand earlier into planning or live tracking.
 
 ---
+
+## The moment it exists for
 
 You're at a restaurant. A huge table of your friends, chilling, having a great time. But when it comes time to pay, the mood of the whole table drops — hungry stomachs are full, energy is depleted, topics of conversation are exhausted.
 
@@ -46,6 +58,22 @@ You don't want to think about that straight after having a good time.
 
 ---
 
+## Emotional Goal
+
+The intended emotional outcome is **nostalgia and recognition** during the process — not just relief or fairness (those are expected, not the focus).
+
+Users should feel:
+
+- "Oh yeah, we did order that"
+- "Wait, you had that?? 😭"
+- "That night was actually great"
+
+The act of splitting should reinforce the experience. It should not feel like admin. It should not feel like accounting.
+
+---
+
 ## Principles
 
 **Casual yet essential.** Every action in Even compounds that vibe — small frictions break it, small frictionless wins build it. The whole app earns its feel one tap at a time.
+
+**Feature test.** Before building anything, ask: does this make the experience feel lighter or heavier? If heavier → reject.

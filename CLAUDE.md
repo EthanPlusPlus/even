@@ -19,5 +19,5 @@ To add the MCP server (run from this repo directory):
 3. Propose a plan — wait for approval before touching anything
 4. Execute the approved plan
 5. Update docs/context/ and any affected docs
-6. Re-index: curl -X POST http://localhost:8000/index
+6. Re-index: curl -X POST http://ubuntu-server.tail58b10c.ts.net:8000/index
 7. Commit and push

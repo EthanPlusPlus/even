@@ -6,8 +6,9 @@ _(nothing currently in progress)_
 
 ## Next
 
-- Sketch core SwiftData schema. Entities: `Receipt` (with `tipRate`, `currencyCode`), `LineItem`, `Person`, `Allocation` (line item → set of persons, equal split within set).
-- Spike VisionKit + Vision against real receipts to inform the OCR open question.
+- **Allocation Screen** — the product's core interaction moment (decision 006). Must feel fast, intuitive, and slightly satisfying. Items as scannable moments; person selection with zero friction; subtle confirmations. This is the critical build.
+- Sketch core SwiftData schema. Entities: `Receipt` (with `tipRate`, `currencyCode`), `LineItem`, `Person`, `Allocation` (line item → set of persons, equal split within set). Prerequisite for allocation screen.
+- Spike VisionKit + Vision against real receipts to inform the OCR open question. Prerequisite for end-to-end flow.
 
 ## Done
 
