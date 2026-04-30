@@ -1,6 +1,0 @@
-#!/bin/bash
-
-echo "[post-merge] Re-indexing even code..."
-curl -s -X POST "http://localhost:8000/index/code?project=even"
-echo ""
-echo "[post-merge] Done."
