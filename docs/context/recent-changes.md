@@ -4,4 +4,4 @@ Rolling log of meaningful system changes. Keep last ~10 entries.
 
 ---
 
-_(no changes yet)_
+_(none yet)_

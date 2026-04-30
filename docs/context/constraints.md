@@ -4,4 +4,4 @@ Active limitations that materially affect design or system behavior.
 
 ---
 
-_(none documented yet)_
+_(none yet)_

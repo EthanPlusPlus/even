@@ -2,12 +2,12 @@
 
 ## In Progress
 
-_(nothing currently in progress)_
+_(none yet)_
 
 ## Next
 
-_(see proposed-ideas/ for upcoming directions)_
+_(none yet)_
 
 ## Done
 
-_(nothing yet)_
+_(none yet)_
