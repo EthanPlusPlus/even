@@ -19,7 +19,7 @@ To add the MCP server (run from this repo directory):
 
 ## Workflow
 
-0. Start sessions with "hi" to trigger session bootstrap
+0. Session bootstrap runs on the first user message — no trigger needed
 1. Retrieve context from MCP
 2. Check docs/context/ — progress.md, recent-changes.md, constraints.md
 3. Propose a plan — wait for approval before touching anything
